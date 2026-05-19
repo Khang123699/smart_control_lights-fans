@@ -1,0 +1,2 @@
+../Core/Modules/smart_home_system/smart_home_system.c:19:6:smartHome_Init	8	static
+../Core/Modules/smart_home_system/smart_home_system.c:30:6:smartHome_Run	8	static

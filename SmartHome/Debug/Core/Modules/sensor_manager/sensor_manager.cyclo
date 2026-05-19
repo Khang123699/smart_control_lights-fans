@@ -1,0 +1,5 @@
+../Core/Modules/sensor_manager/sensor_manager.c:45:6:sensorManagerInit	1
+../Core/Modules/sensor_manager/sensor_manager.c:56:6:sensorManagerUpdate	5
+../Core/Modules/sensor_manager/sensor_manager.c:93:17:Read_LDR	1
+../Core/Modules/sensor_manager/sensor_manager.c:108:6:Sensor_Radar_UART_Callback	7
+../Core/Modules/sensor_manager/sensor_manager.c:141:13:Parse_LD2410_Frame	10
